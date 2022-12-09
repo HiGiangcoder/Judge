@@ -68,13 +68,10 @@ int main() {
 */
 
 void make_test(int index_test) {
-    int n = random(1, 1000000);
-    cout << n << endl;
+    ll a = random(1, 100000 * index_test * index_test);
+    ll b = random(a, 100000 * index_test * index_test);    
 
-    for (int i = 1; i <= n; i ++) {
-        cout << random(1, 1000000) << ' ';
-    }
-
+    cout << a << ' ' << b;
 
     return;
 }
