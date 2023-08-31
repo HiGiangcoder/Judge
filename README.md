@@ -1,4 +1,5 @@
-	- Code tự chấm bài dựa trên việc sinh test, code full(hoặc code trâu) và code mình muốn check xem nó đúng hay sai,có đột nhiên sinh lỗi ở test lớn hay không, có bị quá thời gian cho không. Mục dính để kiểm tra xem code full của mình dúng hay sai và nếu sai thì có thể lấy test sai đó kiểm tra tay(khi sinh testcase nhỏ có thể check tay được).
+
+ - Code tự chấm bài dựa trên việc sinh test, code full(hoặc code trâu) và code mình muốn check xem nó đúng hay sai,có đột nhiên sinh lỗi ở test lớn hay không, có bị quá thời gian cho không. Mục dính để kiểm tra xem code full của mình dúng hay sai và nếu sai thì có thể lấy test sai đó kiểm tra tay(khi sinh testcase nhỏ có thể check tay được).
 
 	Code Judge.cpp được phát triển từ code sinh test trên
 	------------ VNOI.info: https://vnoi.info/wiki/algo/skill/viet-trinh-cham.md ----------
