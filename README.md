@@ -27,4 +27,8 @@
 
 * Lưu ý, toàn bộ quá trình trên đều phải thông qua các file chứa dữ liệu để lấy tên bài ABC, số testcase cần chấm, time limit, ...  trong file __name_and_testcase.txt và 1 số tên file, link trong __name_system.txt, chỉ số của testcase đang chạy trong file __tmp.txt, các bạn tuyệt đối không được xóa các file đó trong lúc chạy. 
 
-* Có thể bạn chưa biết, template của file __make_Test.cpp để sinh test này có thể lấy tên bài trong file: __name_and_testcase.txt, lấy index_test(chỉ số của test đang chạy) trong file __tmp.txt. nên bạn không cần freopen lại trong file __make_Test.cpp và có thể lấy index_test để tạo test to dần theo số test để chấm được tốt hơn.                                                                                                       --- Tác giả: Nguyễn Trường Giang ---
+* Có thể bạn chưa biết, template của file __make_Test.cpp để sinh test này có thể lấy tên bài trong file: __name_and_testcase.txt, lấy index_test(chỉ số của test đang chạy) trong file __tmp.txt. nên bạn không cần freopen lại trong file __make_Test.cpp và có thể lấy index_test để tạo test to dần theo số test để chấm được tốt hơn.(có thể còn nhiều phần cần cải thiện, rất mong được mọi người góp ý.)
+
+                                                                  --- Tác giả: Nguyễn Trường Giang ---
+
+
